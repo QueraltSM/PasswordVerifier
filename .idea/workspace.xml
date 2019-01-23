@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e318693-8843-4a30-b139-9652f1ef2524" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/src/main/java/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/src/main/java/PlayerScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/src/main/java/Players_DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/src/test/java/Kata_Bowling_Game_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/classes/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/classes/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/classes/PlayerScore$Frame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/classes/PlayerScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/classes/Players_DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/target/test-classes/Kata_Bowling_Game_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaEstudiantesBD/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bowling_Game" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PruebaEstudiantesBD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/MiModulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/out/production/MiModulo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiModulo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Products/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Products/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Products/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Products/Products.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/ProductsDiscount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/Kata_Bowling_Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata_Bowling_Game/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/src/main/java/IProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductsDiscount/src/test/java/ProductsDiscount_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/functions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/src/es/ulpgc/functions/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/out/production/prueba/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/prueba.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prueba/src/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1322300306">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="103" />
+    <option name="y" value="72" />
+    <option name="width" value="1090" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PasswordVerifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PasswordVerifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PasswordVerifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PasswordVerifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e318693-8843-4a30-b139-9652f1ef2524" name="Default Changelist" comment="" />
+      <created>1548232874233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548232874233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
